@@ -4,7 +4,7 @@
 </p>
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Web+Development;Frontend+Developer;Content+Creator;Brand+Strategist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Web+Developer;Frontend+Developer;Content+Creator;Brand+Strategist" alt="Typing SVG" />
 </p>
 ---
 
