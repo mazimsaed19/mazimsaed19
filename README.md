@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ical</h1>
+<h1 align="center">Hi 👋, I'm mazim saed</h1>
 <p align="center">
   🔧 A passionate Developer, System Designer, and Freelancer focused on building functional and visually engaging web systems.
 </p>
-
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Digital+Marketer;Frontend+Developer;Content+Creator;Brand+Strategist" alt="Typing SVG" />
+</p>
 ---
 
 ### 🛠️ Tech Stack & Tools:
